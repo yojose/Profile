@@ -5,4 +5,4 @@
 
 ![](https://komarev.com/ghpvc/?username=sonuchivas&label=PROFILE+VIEWS)
 
-![](https://github-readme-stats.vercel.app/api?username=sonnychivas&hide=contribs,prs)
+![](https://github-readme-stats.vercel.app/api?username=yojose&hide=contribs,prs)
